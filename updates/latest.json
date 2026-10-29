@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "app_id": "hearirang-whisper-subtitle-studio",
+  "version": "1.3.0",
+  "channel": "beta",
+  "notes": "V1.3 기능 변경 없음 · GitHub 공개 배포 및 업데이트 시험",
+  "installer": {
+    "filename": "Hearirang_Whisper_Setup_x64.exe",
+    "size": 72587973,
+    "sha256": "d920f1f1fed1e00b5090caa12d8ab50e68faa2050e5d71dcaa05c60b289b2eb3",
+    "url": "https://github.com/hearirang-2026/hearirang-whisper-updates/releases/download/v1.3.0/Hearirang_Whisper_Setup_x64.exe"
+  }
+}
